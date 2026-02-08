@@ -1,5 +1,7 @@
   # Open Source Launchpad
 
+  In collaboartion  **Social Winter of Code**
+
 **Open Source Launchpad** is a beginner-friendly introductory workshop conducted under **Pixel Phantoms’ Month of Code (PP-MoC)**. This initiative is designed to help students understand the fundamentals of Open Source and confidently take their first steps toward real-world contributions.
 
 ## About the Program
